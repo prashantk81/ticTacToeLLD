@@ -8,7 +8,7 @@ Run `make` command
 
 ## Step-2
 
-`./tic_tak_toe`
+`./output`
 
 ### Enter all Info
 

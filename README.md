@@ -1,4 +1,4 @@
-# ticTacToeLLD
+# This repo contains the low level design of ticTacToe.
 
 # How to start
 
@@ -13,6 +13,6 @@ Run `make` command
 ### Enter all Info
 
 - Give board size
-- Then enter players information
-- And then you all ready to play
+- Then enter player's information
+- After that you all ready to play
 - Enter row and column values (0-based indexing)
